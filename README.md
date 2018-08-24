@@ -1,2 +1,2 @@
-# MathsFunctions
-MathsFunctions
+# Mathfunctions
+Functions
